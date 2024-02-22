@@ -116,7 +116,8 @@ sudo make install
 
 ```
 sudo apt-get install iverilog
-[iverilog]
+[iverilog]![3](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/65026a6a-9757-4911-8bf0-61ac7720caef)
+
 ```
 
 
