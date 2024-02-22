@@ -106,23 +106,24 @@ make
 sudo make install
 ```
 
-![yosys_make](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/e722e508-0802-4f50-9cb6-02e9c6bafe48)
+![yosys_make]![2](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/3dd44f67-8ef6-470e-b907-8edb6444c810)
 
 
-![buildsuccess_yosys](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/5e10e5b8-19dd-4460-994f-2759e9b942b1)
+
 
 
 ### iVerilog
 
 ```
 sudo apt-get install iverilog
+[iverilog]
 ```
 
 
 ### GTkWave
 ``` sudo apt-get install gtkwave ```
 
-![iverilog_gtkwave](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/344a4225-c6bb-4728-a325-ac66d1621b28)
+![_gtkwave](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/344a4225-c6bb-4728-a325-ac66d1621b28)
 
 </details>
 
