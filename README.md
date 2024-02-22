@@ -52,7 +52,8 @@ This repo is intended to document the weekly progress.
 
 ```git clone https://github.com/riscv/riscv-gnu-toolchain```
 
-![gnu_toolchain_clone][[Uploading 1.html…]()
+![gnu_toolchain_clone]![1](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/7017ff7c-77f9-4361-acae-3919066a907b)
+
 
 
 
