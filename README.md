@@ -124,7 +124,8 @@ sudo apt-get install iverilog
 ### GTkWave
 ``` sudo apt-get install gtkwave ```
 
-![_gtkwave](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/344a4225-c6bb-4728-a325-ac66d1621b28)
+![_gtkwave]![4](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/a97f752a-1331-4ad8-b890-ad66bd0f8819)
+
 
 </details>
 
