@@ -22,7 +22,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 4: Check for the errors by using the following command(compilation step)**
 
 **gcc sum1ton.c**
-![complie the C Code](https://github.com/Abdulbitm/Abdul/assets/160620896/982d5fe6-b150-4535-9611-8478a12165ae)
+![complie the C Code](https://![task33](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/683d6ccd-951e-4bca-b8d4-6952fb01c891)
+
 
 **Step 5: Check the output by using the command**
 
