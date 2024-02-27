@@ -69,7 +69,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 ![checking instructions_in_main_C_Code_15_instructions](https://![task39](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/5272a29b-fba1-4d88-9712-71e8bb16198f)
 
 
-![checking instructions_in_main_C_Code_15_instructions_highlighted](https://github.com/Abdulbitm/Abdul/assets/160620896/0a07ba3e-4a3d-41a7-a158-3ef976ce0292)
+![checking instructions_in_main_C_Code_15_instructions_highlighted](https://![task310](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/c5689bee-1c0e-4781-8006-5e3d57840e21)
+
 
 
 **Step 4:**
