@@ -49,7 +49,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 2: Compile the code in riscv using the following command**
 
 **riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
-![complie riscv](https://github.com/Abdulbitm/Abdul/assets/160620896/b85e4975-9bc1-4258-8091-6904692328cc)
+![complie riscv](https://![task37](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/7deec88f-c4c9-44b8-ba22-2abe5cb300df)
+
 
 **Step 3: The ls ltr command in Linux is used to list the contents of the current directory in long format, sorted by last modified time in reverse order.**
 
