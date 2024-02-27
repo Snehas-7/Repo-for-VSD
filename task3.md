@@ -62,7 +62,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 
 
-![long directory content](https://github.com/Abdulbitm/Abdul/assets/160620896/3e2e473a-9f55-4bec-8ed3-4bd2732efbee)
+
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
@@ -73,15 +73,15 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 
 
-**Step 4:**
-
-**riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
-
-![12 instructions with Ofast](https://github.com/Abdulbitm/Abdul/assets/160620896/f2ebdc19-c3a6-494d-a25d-6d71c2811440)
 
 
 
-![12 instructions with Ofast_1](https://github.com/Abdulbitm/Abdul/assets/160620896/4904feb4-c3ab-4337-976c-9a94bacbf85a)
+
+
+
+
+
+
 
 
 
