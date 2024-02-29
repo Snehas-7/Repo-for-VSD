@@ -10,7 +10,7 @@
 
 **Step - 1: To Run the code in the normal GCC Compiler**
             **To compile the code: gcc sum1ton.c -o sum1ton**
-            **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250**
+            **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 100**
 
             
 **Step - 2: To Run the code in the RISC-V GCC Compiler**
