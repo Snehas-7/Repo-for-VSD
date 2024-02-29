@@ -5,7 +5,8 @@
 **AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)**
 
 
-![WhatsApp Image 2024-02-28 at 19 31 54_cd846589](https://github.com/Abdulbitm/Abdul/assets/160620896/f054163c-a5ba-464d-9d89-b310052be406)
+![WhatsApp Image 2024-02-28 at 19 31 54_cd846589](https://![image4](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/6626983b-0ecd-4c28-b5f7-0b1bc5e6352b)
+
 
 **Step - 1: To Run the code in the normal GCC Compiler**
             **To compile the code: gcc sum1ton.c -o sum1ton**
