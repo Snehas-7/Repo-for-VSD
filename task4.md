@@ -23,7 +23,7 @@
   **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250**
 
   
-![WhatsApp Image 2024-02-28 at 19 41 34_c4b142a9](https://![task4](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/7a2d4a43-aef8-40b3-bf6b-07c074e21d6c)
+
 
 
   ![WhatsApp Image 2024-02-28 at 19 41 34_d3e9b53a](https://github.com/Abdulbitm/Abdul/assets/160620896/6d28b21e-3b58-4f46-8cc0-accee9fb4976)
