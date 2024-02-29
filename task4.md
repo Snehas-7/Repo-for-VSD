@@ -12,6 +12,10 @@
             **To compile the code: gcc sum1ton.c -o sum1ton**
             **To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 100**
 
+
+![WhatsApp Image 2024-02-28 at 19 41 34_c4b142a9](https://![task4](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/7a2d4a43-aef8-40b3-bf6b-07c074e21d6c)
+
+
             
 **Step - 2: To Run the code in the RISC-V GCC Compiler**
 
