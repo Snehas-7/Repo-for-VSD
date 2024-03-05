@@ -93,11 +93,12 @@ $ ./hello
 
 
  Instruction 2:sub r7,r1,r2
- <img width="1280" alt="2" src="https://![pic12](https://![pic2sub](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/d778f069-f03e-47c6-ab45-ea531338658c)
+ <img width="1280" alt="2" src=(https://![pic2sub](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/d778f069-f03e-47c6-ab45-ea531338658c)
 
 
 Instruction 4:or r9,r2,r5
-<img width="1294" alt="4" src="https://![pic13](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/0ed56971-a107-461b-bdfd-344725bea112)
+<img width="1294" alt="4" src="https://![pic3or](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/0dc2cd61-76c9-4eaa-96ee-9d9d5e1846e3)
+
 
 
  Instruction 5:xor r10,r1,r4
