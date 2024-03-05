@@ -67,7 +67,8 @@ $ iverilog -o hello hello.v hello_tb.v
 $ ./hello
 ```
 
-![running verilog code using iverilog](https://![hello](https://![task53](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/1d0660bf-1e4e-43f3-b418-d68157784dea)
+![running verilog code using iverilog](https://![task54](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/449dfd75-2c08-4e97-84fd-a245c95dce9b)
+
 
 
 
