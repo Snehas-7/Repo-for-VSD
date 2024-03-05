@@ -77,7 +77,8 @@ $ ./hello
 
 `$ gtkwave hello.vcd'
 
-![w1](https://![gtkwave](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/7f6fc16e-92d0-4283-a482-1f605668dec2)
+![w1](https://![gtkwave](https://![task54](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/1309eedb-ae62-4288-8080-f25fd8e532cd)
+
 
 
 
