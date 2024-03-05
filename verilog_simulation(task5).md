@@ -109,7 +109,8 @@ Instruction 4:or r9,r2,r5
 
   
 
-![w6](https://![pic16](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/7a64e0d2-b2f1-4262-b146-ca2edc553813)
+![w6](https://![pic16](https://![piclast](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/7c21d58c-3ac7-4c0c-9c5c-be9b0ff85680)
+
 
 
 ![RISCV_folder](https://![pic0](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/733965a9-3bbb-4c15-b411-5c4d8ad29825)
