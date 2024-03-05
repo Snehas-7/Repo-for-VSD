@@ -97,7 +97,8 @@ $ ./hello
 
 
 Instruction 4:or r9,r2,r5
-<img width="1294" alt="4" src=(https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/0dc2cd61-76c9-4eaa-96ee-9d9d5e1846e3)
+<img width="1294" alt="4" src=![pic3or](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/54b44ecf-745a-4c32-8c56-7754d7307562)
+
 
 
 
