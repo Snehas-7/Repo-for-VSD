@@ -97,12 +97,13 @@ $ ./hello
 
 
 Instruction 4:or r9,r2,r5
-<img width="1294" alt="4" src="https://![pic3or](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/0dc2cd61-76c9-4eaa-96ee-9d9d5e1846e3)
+<img width="1294" alt="4" src=(https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/0dc2cd61-76c9-4eaa-96ee-9d9d5e1846e3)
 
 
 
  Instruction 5:xor r10,r1,r4
- <img width="1293" alt="5" src="https://![pic14](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/77b7594f-7028-40bd-a9a1-3bc066ee3b68)
+ <img width="1293" alt="5" src="https:![pic4xor](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/aa8abd8b-5ceb-46bb-8c5f-f49b534e1b72)
+
 
 
   
