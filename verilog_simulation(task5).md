@@ -26,7 +26,8 @@ This project provides an insight into the working of a few important instruction
 
 
 
-![3](https://![ss3](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/4b5a4508-7c08-445e-b0f9-56fde7fffa7d)
+![3](https://![b3](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/0d238127-3570-479b-a3b4-41217bc70826)
+
 
 
 ## 4. FUNCTIONAL SIMULATION
