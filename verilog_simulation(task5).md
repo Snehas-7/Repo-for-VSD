@@ -50,7 +50,8 @@ This project provides an insight into the working of a few important instruction
 - **To clone the repository and download the netlist files for simulation, enter the following commands in your terminal.**
 
  ```
- $ git clone https://![task52](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/8c9c6022-4fdc-4148-814e-c1c103910448)
+ $ git clone https://![task52](https://![task52](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/70b18825-1f35-46d9-9e1b-8d4989215ba3)
+
 
  
 ```
