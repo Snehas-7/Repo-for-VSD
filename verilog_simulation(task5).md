@@ -88,7 +88,8 @@ $ ./hello
  The output waveform showing the instructions performed in a 5-stage pipelined architecture.
  
  Instruction 1:add r6,r2,r1
- <img width="1282" alt="1" src="https://![pic1](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/59b3e5ec-9c27-464a-8981-d3513ffce04d)
+ <img width="1282" alt="1" src="https://![pic1](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/56b727fb-e0df-4856-a3c9-dfec4e78cc36)
+
 
 
  Instruction 2:sub r7,r1,r2
