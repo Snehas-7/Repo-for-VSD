@@ -16,11 +16,13 @@
 This project provides an insight into the working of a few important instructions of the instruction set of a Single cycle Reduced Instruction Set Computer - Five(RISC-V) Instruction Set Architecture suitable for use across wide-spectrum of Applications from low-power embedded devices to high-performance Cloud-based Server processors. The base RISC-V is a 32-bit processor with 31 general-purpose registers, so all the instructions are 32-bit long. Some Applications where the RISC-V processors have begun to make some significant threads are in Artificial intelligence and machine learning, Embedded systems, ultra-low power processing systems, etc.
 
 ## 2. BLOCK DIAGRAM OF RISC-V RV32I
-![1](https://![Screenshot 2024-03-04 194441](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/eb0dadd3-966f-40d7-81f2-0476b920aec6
+![1](https://![b1](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/05ab7ef3-7770-4083-9530-114875839d55)
+
 
 
 ## 3. INSTRUCTION SET OF RISC-V RV32I
-![2](https://![Screenshot 2024-03-04 194958](https://github.com/suvarnak-18/suvarnak-18/assets/160591416/f3863dfc-86ec-4a9e-a485-012108349ef0)
+![2](https://![b2](https://github.com/Snehas-7/Repo-for-VSD/assets/120084430/5e8003f7-3fa3-4ad4-a004-2cc83f218098)
+
 
 
 
